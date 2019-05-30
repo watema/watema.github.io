@@ -5,7 +5,7 @@ color: blue}
 
 
 body{
-font-family:arial;hevetical;sans-serif;
+font-family:arial,helvetica,sans-serif;
 font-size:15px;
 line0height:1.5;
 font:15px/1.5 Arial,hevetical,sans-serif;
@@ -14,4 +14,8 @@ background-color:#f4f4f4;
 }
 .container{ width:80%;
   margin:auto;
+}
+
+.service-header{
+  
 }
