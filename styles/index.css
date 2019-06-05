@@ -16,7 +16,8 @@ body {
 
 }
 .test {
-  color: red;
+  font-size: 48px;
+  color: blue;
 }
 
 .container {
