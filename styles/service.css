@@ -13,13 +13,3 @@ body {
  padding: 2;
  margin: 0;
  background-color: green;
-
-}
-.navigation-links {
-  display: none;
-}
-
-.top-navigation:hover .navigation-links {
-  display:block;
-
-}
