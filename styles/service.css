@@ -1,5 +1,5 @@
 
-1 {
+p {
  font-size: 40px;
  background-color: gold;
  color: blue
@@ -19,12 +19,3 @@ body {
  font-size: 48px;
  color: blue;
 }
-
-.container {
- width: 80%;
- margin: auto;
-}
-
-.service-header{
- text-align: center;
- font-size: 48px;
