@@ -1,10 +1,17 @@
 
 p {
  font-size: 45px;
+ text-align:center;
 
- color:blue
+ color:blue;
 }
 
+  footer{
+  background-color:yellow;
+  position:absolute;
+  bottom:0;
+  width:100vw;
+}
 
 body {
 
@@ -12,4 +19,4 @@ body {
  line-height: 1.5;
  padding: 2;
  margin: 0;
- background-color: green;
+ background-color: #42e2f4;
