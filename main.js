@@ -1,3 +1,3 @@
-alert("change the text")
-alert("Say to the world")
-console.log('hello');
+
+var omari ="watema";
+alert ("hello"+ omari);
