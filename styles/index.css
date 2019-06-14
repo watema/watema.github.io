@@ -1,6 +1,6 @@
  h1 {
   font-size: 40px;
-
+  text-align:center;
   color: blue
 }
 
@@ -14,6 +14,12 @@ body {
   margin: 0;
   background-color: #f4f4f4;
 
+}
+
+footer {
+  background-color: yellow;
+  font-size:48px;
+  margin-bottom;
 }
 .test {
   font-size: 48px;
