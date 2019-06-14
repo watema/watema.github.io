@@ -15,11 +15,16 @@ body {
   background-color: #f4f4f4;
 
 }
+nav {background-color:black;
+      font-style:italic;
+      color:absolute;
+ 
 
 footer {
-  background-color: yellow;
-  font-size:48px;
-  margin-bottom;
+  background-color:yellow;
+    position:absolute;
+    bottom:0;
+    width:100vw;
 }
 .test {
   font-size: 48px;
