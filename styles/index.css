@@ -3,9 +3,12 @@
   text-align:center;
   color:blue;
 
-nav {background-color:yellow;
+nav {
+  background-color:yellow;
       font-style:italic;
+      padding: 15px;
       color:absolute;
+    }
 
 
 footer {
