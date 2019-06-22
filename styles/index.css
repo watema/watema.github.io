@@ -13,13 +13,13 @@ body {
   padding: 0;
   margin: 0;
   background-color: #f4f4f4;
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
 
 }
 nav {background-color:yellow;
       font-style:italic;
       color:absolute;
-      box-sizing:border-box;
+
 
 footer {
   background-color:yellow;
