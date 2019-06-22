@@ -1,7 +1,7 @@
  h1 {
-  font-size: 40px;
+  font-size: 48px;
   text-align:center;
-  color: blue
+  color: blue;
 }
 
 
@@ -18,7 +18,7 @@ body {
 nav {background-color:black;
       font-style:italic;
       color:absolute;
- 
+
 
 footer {
   background-color:yellow;
