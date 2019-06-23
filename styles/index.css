@@ -13,6 +13,28 @@ nav {
 
 
 
+    footer a.fa{
+      font-size:35px;
+    }
+
+    a.fa-twitter{
+      color:#4286f4;
+    }
+
+    a.fa-facebook{
+      color:#1c36cc;
+    }
+
+    a.fa-instagram{
+      color:#cc1b5c;
+
+    }
+
+    a.fa-youtube{
+      color:#cc1a32;
+
+    }
+
 .test {
   font-size: 48px;
   color: blue;
