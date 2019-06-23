@@ -3,7 +3,13 @@
   text-align:center;
   color:blue;
 }
-
+header{
+  background-color:yellow;
+  color:black;
+  padding:45px;
+  margin-bottom:10px;
+  display:flex;
+}
 nav {
   background-color:yellow;
       font-style:italic;
