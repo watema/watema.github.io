@@ -4,7 +4,8 @@
   color:blue;
 }
 header{
-  background-color:yellow;
+  background-image: url('../images/we.jpg');
+  /* background-color:yellow; */
   color:black;
   padding:45px;
   margin-bottom:10px;
