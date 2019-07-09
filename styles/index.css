@@ -1,58 +1,57 @@
  h1 {
-  font-size: 48px;
-  text-align:center;
-  color:blue;
-}
-header{
-  background-image: url('../images/we.jpg');
-  /* background-color:yellow; */
-  color:black;
-  padding:45px;
-  margin-bottom:10px;
-  display:flex;
-}
-nav {
-  background-color:yellow;
-      font-style:italic;
-      padding: 28px;
-      color:absolute;
-    }
+   font-size: 48px;
+   text-align: center;
+   color: blue;
+ }
 
+ header {
+   background-image: url('../images/we.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   /* background-color:yellow; */
+   color: black;
+   padding: 45px;
+   margin-bottom: 10px;
+   display: flex;
+ }
 
+ nav {
+   font-style: italic;
+   padding: 28px;
+   color: absolute;
+ }
 
-    footer a.fa{
-      font-size:35px;
-    }
+ footer a.fa {
+   font-size: 35px;
+ }
 
-    a.fa-twitter{
-      color:#4286f4;
-    }
+ a.fa-twitter {
+   color: #4286f4;
+ }
 
-    a.fa-facebook{
-      color:#1c36cc;
-    }
+ a.fa-facebook {
+   color: #1c36cc;
+ }
 
-    a.fa-instagram{
-      color:#cc1b5c;
+ a.fa-instagram {
+   color: #cc1b5c;
+ }
 
-    }
+ a.fa-youtube {
+   color: #cc1a32;
+ }
 
-    a.fa-youtube{
-      color:#cc1a32;
+ .test {
+   font-size: 48px;
+   color: blue;
+ }
 
-    }
+ .container {
+   width: 80%;
+   margin: auto;
+ }
 
-.test {
-  font-size: 48px;
-  color: blue;
-}
-
-.container {
-  width: 80%;
-  margin: auto;
-}
-
-.service-header{
-  text-align: center;
-  font-size: 48px;
-}
+ .service-header {
+   text-align: center;
+   font-size: 48px;
+ }
