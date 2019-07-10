@@ -6,8 +6,6 @@
 
  header {
    background-image: url('../images/we.jpg');
-   background-repeat: no-repeat;
-   background-size: cover;
    /* background-color:yellow; */
    color: black;
    padding: 45px;
@@ -16,6 +14,7 @@
  }
 
  nav {
+   background-color: yelllow;
    font-style: italic;
    padding: 28px;
    color: absolute;
