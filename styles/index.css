@@ -20,6 +20,11 @@
    color: absolute;
  }
 
+ .navigation-links li {
+   list-style: none;
+   display: inline;
+ }
+
  footer a.fa {
    font-size: 35px;
  }
