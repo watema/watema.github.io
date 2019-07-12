@@ -23,6 +23,9 @@
  .navigation-links li {
    list-style: none;
    display: inline;
+ }
+
+ .navigation-links a {
    text-decoration: none;
  }
 
