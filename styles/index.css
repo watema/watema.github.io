@@ -23,6 +23,7 @@
  .navigation-links li {
    list-style: none;
    display: inline;
+   text-decoration: none;
  }
 
  footer a.fa {
