@@ -1,3 +1,11 @@
+body {}
+
+.page-wrapper {
+  background-color: #42e2f4;
+  margin: 20px;
+  padding: 20px;
+}
+
 header {
   /* background-image: url('../images/we.jpg'); */
   /* background-color:yellow; */
@@ -36,4 +44,33 @@ nav ul {
   display: inline-flex;
   justify-content: center;
   text-decoration: none;
+}
+
+main {
+  height: 700px;
+}
+
+footer {
+  background-color: yellow;
+  width: 100%;
+}
+
+footer a.fa {
+  font-size: 35px;
+}
+
+a.fa-twitter {
+  color: #4286f4;
+}
+
+a.fa-facebook {
+  color: #1c36cc;
+}
+
+a.fa-instagram {
+  color: #cc1b5c;
+}
+
+a.fa-youtube {
+  color: #cc1a32;
 }
