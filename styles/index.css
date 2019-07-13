@@ -4,17 +4,9 @@
    color: blue;
  }
 
- header {
-   background-image: url('../images/we.jpg');
-   /* background-color:yellow; */
-   color: black;
-   padding: 45px;
-   margin-bottom: 10px;
-   display: flex;
- }
-
  nav {
-   background-color: yelllow;
+   width: 100%;
+   background-color: yellow;
    font-style: italic;
    padding: 28px;
  }

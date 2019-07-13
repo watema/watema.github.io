@@ -15,26 +15,7 @@ body {
   background-image: url('images/we.jpg');
 }
 
-.navigation-links li {
-  list-style: none;
-  display: inline;
-}
-
-.navigation-links a {
-  text-decoration: none;
-}
-
-.test {
-  font-size: 48px;
-  color: blue;
-}
-
 .container {
   width: 80%;
   margin: auto;
-}
-
-.service-header {
-  text-align: center;
-  font-size: 48px;
 }
