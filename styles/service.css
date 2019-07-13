@@ -1,6 +1,13 @@
+nav {
+  background-color: yelllow;
+  font-style: italic;
+  padding: 28px;
+}
+
 .navigation-links li {
   list-style: none;
-  display: inline;
+  display: flex;
+  justify-content: center;
 }
 
 .navigation-links a {
