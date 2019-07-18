@@ -48,7 +48,10 @@ nav ul {
 }
 
 .main-img {
-  width: 100px;
+  width: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 main {
