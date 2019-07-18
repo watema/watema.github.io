@@ -40,10 +40,15 @@ nav ul {
 }
 
 .navigation-links li a {
+  font-size: 36px;
   margin: 10px;
   display: inline-flex;
   justify-content: center;
   text-decoration: none;
+}
+
+.main-img {
+  width: 100px;
 }
 
 main {
